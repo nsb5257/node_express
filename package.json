@@ -1,0 +1,15 @@
+{
+  "name": "node_express",
+  "version": "1.0.0",
+  "description": "The code submission for \"Street view app\"",
+  "main": "api.js",
+  "scripts": {
+    "dev": "nodemon api.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
